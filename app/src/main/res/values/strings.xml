@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RAKSHA</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="Settings">Settings</string>
+    <string name="About_App">About App</string>
+    <string name="Activate">Activate</string>
+    <string name="De_Activate">De_Activate</string>
+    <string name="Exit">Exit</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="favourite_contacts">favourite contacts</string>
+    <string name="alert_message_settings">alert message settings</string>
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="WE_MEN_RAKSHA">WE_MEN RAKSHA</string>
+    <string name="RAKSHA">RAKSHA</string>
+    <string name="ADD">ADD</string>
+    <string name="contents">CONTENTS</string>
+    <string name="ALERT_MESSAGE_SETTINGS">ALERT MESSAGE SETTINGS</string>
+    <string name="LOCATION_SETTINGS">LOCATION SETTINGS</string>
+    <string name="about1">This application is for the purpose of security...</string>
+    <string name="about2">Here,there are few settings namely....</string>
+    <string name="about3">1.Favourite contacts</string>
+    <string name="about4">2.Alert message settings</string>
+    <string name="about5">3.Location settings</string>
+    <string name="about6">In favourite contacts you have to give few selected contacts,so that if your in a trouble or in any similar situation the alert messages and your location will be forwarded to that selected contacts.In this there is an inbuilt number 100 by this you will also get a quick help from the cobs...</string>
+    <string name="about7">In alert message settings after installing this application you need to set a message which will convey that your in a trouble to your favourite contacts...</string>
+    <string name="about8"> In location settings you are,your location will be traced by the GPS and will be sent to your favourite contacts...</string>
+    <string name="about9"> These 3 settings will be alerted only if you the activate button and if you feel your in trouble then you click the home button THRICE then the activated settings will be forwarde to your selected contacts...
+        once you feel that your safe, click DE-ACTIVATE button so that the activated settings will not alerted,...i.e; if you press the home button thrice by mistake also, the activated settings will not be forwarded...
+        after the usage of the application,click EXIT button, so that you will be back to the main logo :)</string>
+    <string name="Enter_phone_number">Enter Phone Number</string>
+    <string name="Enter_number_here">Enter Number Here</string>
+    <string name="Read_file">Read File</string>
+    <string name="Save_TO_File">Save TO File</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main6">Main6Activity</string>
+    <string name="set">SET</string>
+    <string name="title_activity_main7">Main7Activity</string>
+    <string name="title_activity_panic">PanicActivity</string>
+</resources>
