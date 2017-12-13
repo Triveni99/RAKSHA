@@ -55,7 +55,7 @@ public class PanicActivity extends AppCompatActivity {
                     SmsManager smsManager=SmsManager.getDefault();
                     smsManager.sendTextMessage("+917675955862","+919912714221","hello"+ mainactivity.st3,null,null);
                     Toast.makeText(getBaseContext(),"Message send to the contacts", Toast.LENGTH_LONG).show();
-
+///hellooooo this is test
                 }
 
             }
